@@ -3,18 +3,28 @@
 // REMEMBER that the Users Input will be saved into the window.prompt
 
 var startInst = window.prompt("Enter start Number")
+
+
 var endInst = window.prompt("Enter End number:");
 var stepInst = window.prompt("Enter Step Number:");
 
 // How to turn the Users input number(strings) into actual numerical values.
 // These are the actual UserInputs
 startnum = parseInt(startInst);
+if (isNaN(startInst)==true{                          
+})
 endnum = parseInt(endInst);
 stepnum = parseInt(stepInst);
 
-// array = ();
+array = (
+    while (stepinterval =< endnum) {
+
+    }
+);
 sum = (startnum + endnum + stepnum);
-// binary = ()
+userinput = [startnum, endnum, stepnum];
+stepinterval = (startnum + stepnum)
+//  binary = ()
 
 
 
