@@ -12,15 +12,15 @@ startnum = parseInt(startInst);
 endnum = parseInt(endInst);
 stepnum = parseInt(stepInst);
 
-array = ()
-sum = (startnum + endnum + stepnum)
-binary = ()
+// array = ();
+sum = (startnum + endnum + stepnum);
+// binary = ()
 
 
 
 // prints out selected numbers, "<br/> used to break lines of output strings"
 // Plus step number funtion
 // Plus-Step funtion results turned into binary
-document.write("The generated array is " + array + "<br/>");
+document.write("The generated array is <br/>");
 document.write("The Sum is" + sum +"<br/>");
-document.write("The binary of absolut element values are " binary + "<br/>");
+document.write("The binary of absolut element values are <br/>");
