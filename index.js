@@ -1,9 +1,9 @@
 // Prompt for user input
-var arraylist = []
-for (var stepinterval=0; stepinterval <= endnum; stepinterval++ ){
-arraylist.map(stepinterval+stepnum)
+// var arraylist = []
+// for (var stepinterval=0; stepinterval <= endnum; stepinterval++ ){
+// arraylist.map(stepinterval+stepnum)
 
-}
+// }
 
 // var then name / Will save into "name"
 // REMEMBER that the Users Input will be saved into the window.prompt
